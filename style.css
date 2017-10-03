@@ -1,0 +1,64 @@
+body { 
+  background-image: url("http://freeimagescollection.com/images/backgrounds/concrete-wall-with-tiny-cracks-for-website-backgrounds-and-wallpapers-f5.jpg");
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-family: inconsolata;
+   position: relative;
+ }
+ 
+
+    ul {
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+   width: 50px;
+    text-align: center;
+    text-decoration: none;
+  border-radius:  50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-github{
+  background-color: green;
+    color: white;
+}
+.fa-linkedin {
+  background-color: #007bb5;
+  color: white;
+}
+.fa-envelope {
+  padding: 0px!important;
+  width: opx!important;
+  text-align: left!important;   
+}
